@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIS2_Server", "AIS2_Server\AIS2_Server.csproj", "{9D49BB69-6EC2-4EEA-BA1B-3CC958CE022B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIS2_Client", "AIS2_Client\AIS2_Client.csproj", "{01B5EECF-A962-4E56-8306-F4B67AEEDE42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D49BB69-6EC2-4EEA-BA1B-3CC958CE022B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D49BB69-6EC2-4EEA-BA1B-3CC958CE022B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D49BB69-6EC2-4EEA-BA1B-3CC958CE022B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D49BB69-6EC2-4EEA-BA1B-3CC958CE022B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01B5EECF-A962-4E56-8306-F4B67AEEDE42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01B5EECF-A962-4E56-8306-F4B67AEEDE42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01B5EECF-A962-4E56-8306-F4B67AEEDE42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01B5EECF-A962-4E56-8306-F4B67AEEDE42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19A80B2E-72B9-48D0-96FA-CF0E52C45503}
+	EndGlobalSection
+EndGlobal

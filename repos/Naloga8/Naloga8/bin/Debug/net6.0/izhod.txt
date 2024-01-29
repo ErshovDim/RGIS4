@@ -1,0 +1,12 @@
+Vsebina izhodne datoteke:
+najvišja ocena=24
+najnižja ocena=10
+povprečna ocena=15.6
+število pozitivnih izpitov/kolokvijev=3
+število negativnih izpitov/kolokvijev=2
+
+123456785/24/25/kolokvij
+123456787/20/25/kolokvij
+123456788/13/25/kolokvij
+123456786/11/25/kolokvij
+123456789/10/25/kolokvij

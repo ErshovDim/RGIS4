@@ -1,0 +1,15 @@
+C:\Users\Dmitry\source\repos\AIS2_Server\AIS2_Client\bin\Debug\net6.0\AIS2_Client.exe
+C:\Users\Dmitry\source\repos\AIS2_Server\AIS2_Client\bin\Debug\net6.0\AIS2_Client.deps.json
+C:\Users\Dmitry\source\repos\AIS2_Server\AIS2_Client\bin\Debug\net6.0\AIS2_Client.runtimeconfig.json
+C:\Users\Dmitry\source\repos\AIS2_Server\AIS2_Client\bin\Debug\net6.0\AIS2_Client.dll
+C:\Users\Dmitry\source\repos\AIS2_Server\AIS2_Client\bin\Debug\net6.0\AIS2_Client.pdb
+C:\Users\Dmitry\source\repos\AIS2_Server\AIS2_Client\obj\Debug\net6.0\AIS2_Client.csproj.AssemblyReference.cache
+C:\Users\Dmitry\source\repos\AIS2_Server\AIS2_Client\obj\Debug\net6.0\AIS2_Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dmitry\source\repos\AIS2_Server\AIS2_Client\obj\Debug\net6.0\AIS2_Client.AssemblyInfoInputs.cache
+C:\Users\Dmitry\source\repos\AIS2_Server\AIS2_Client\obj\Debug\net6.0\AIS2_Client.AssemblyInfo.cs
+C:\Users\Dmitry\source\repos\AIS2_Server\AIS2_Client\obj\Debug\net6.0\AIS2_Client.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\source\repos\AIS2_Server\AIS2_Client\obj\Debug\net6.0\AIS2_Client.dll
+C:\Users\Dmitry\source\repos\AIS2_Server\AIS2_Client\obj\Debug\net6.0\refint\AIS2_Client.dll
+C:\Users\Dmitry\source\repos\AIS2_Server\AIS2_Client\obj\Debug\net6.0\AIS2_Client.pdb
+C:\Users\Dmitry\source\repos\AIS2_Server\AIS2_Client\obj\Debug\net6.0\AIS2_Client.genruntimeconfig.cache
+C:\Users\Dmitry\source\repos\AIS2_Server\AIS2_Client\obj\Debug\net6.0\ref\AIS2_Client.dll

@@ -1,0 +1,15 @@
+C:\Users\Dmitry\source\repos\N8\N8\obj\Debug\net6.0\N8.csproj.AssemblyReference.cache
+C:\Users\Dmitry\source\repos\N8\N8\obj\Debug\net6.0\N8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dmitry\source\repos\N8\N8\obj\Debug\net6.0\N8.AssemblyInfoInputs.cache
+C:\Users\Dmitry\source\repos\N8\N8\obj\Debug\net6.0\N8.AssemblyInfo.cs
+C:\Users\Dmitry\source\repos\N8\N8\obj\Debug\net6.0\N8.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\source\repos\N8\N8\bin\Debug\net6.0\N8.exe
+C:\Users\Dmitry\source\repos\N8\N8\bin\Debug\net6.0\N8.deps.json
+C:\Users\Dmitry\source\repos\N8\N8\bin\Debug\net6.0\N8.runtimeconfig.json
+C:\Users\Dmitry\source\repos\N8\N8\bin\Debug\net6.0\N8.dll
+C:\Users\Dmitry\source\repos\N8\N8\bin\Debug\net6.0\N8.pdb
+C:\Users\Dmitry\source\repos\N8\N8\obj\Debug\net6.0\N8.dll
+C:\Users\Dmitry\source\repos\N8\N8\obj\Debug\net6.0\refint\N8.dll
+C:\Users\Dmitry\source\repos\N8\N8\obj\Debug\net6.0\N8.pdb
+C:\Users\Dmitry\source\repos\N8\N8\obj\Debug\net6.0\N8.genruntimeconfig.cache
+C:\Users\Dmitry\source\repos\N8\N8\obj\Debug\net6.0\ref\N8.dll
