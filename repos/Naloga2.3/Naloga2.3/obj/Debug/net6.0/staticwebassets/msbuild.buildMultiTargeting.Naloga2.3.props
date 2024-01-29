@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\Naloga2.3.props" />
-</Project>

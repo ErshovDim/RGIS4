@@ -1,6 +1,0 @@
-max_ocena;ocena;idum;tip
-25;10;123456789;kolokvij
-25;13;123456788;kolokvij
-25;20;123456787;kolokvij
-25;11;123456786;kolokvij
-25;24;123456785;kolokvij
